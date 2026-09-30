@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M48,4 C72.3,4 92,23.7 92,48 C92,72.3 72.3,92 48,92 C23.7,92 4,72.3 4,48 C4,23.7 23.7,4 48,4 Z"/>
+    <!-- Wolf Ears -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M26,42 L34,14 L44,32 Z M70,42 L62,14 L52,32 Z"/>
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M29,38 L35,20 L41,32 Z M67,38 L61,20 L55,32 Z"/>
+    <!-- Head Outer -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M48,22 C34,22 22,34 22,50 C22,68 34,76 48,76 C62,76 74,68 74,50 C74,34 62,22 48,22 Z"/>
+    <!-- Cheeks & Snout Light -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M48,44 C36,44 26,54 26,62 C34,68 42,76 48,76 C54,76 62,68 70,62 C70,54 60,44 48,44 Z"/>
+    <!-- Eyes -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M36,42 L42,46 L34,48 Z M60,42 L54,46 L62,48 Z"/>
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M38,44 C39,44 40,45 40,46 C40,47 39,48 38,48 C37,48 36,47 36,46 C36,45 37,44 38,44 Z M58,44 C59,44 60,45 60,46 C60,47 59,48 58,48 C57,48 56,47 56,46 C56,45 57,44 58,44 Z"/>
+    <!-- Nose -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M48,60 C44,60 43,65 48,68 C53,65 52,60 48,60 Z"/>
+</vector>

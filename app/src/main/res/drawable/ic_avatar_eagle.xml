@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M48,4 C72.3,4 92,23.7 92,48 C92,72.3 72.3,92 48,92 C23.7,92 4,72.3 4,48 C4,23.7 23.7,4 48,4 Z"/>
+    <!-- Feathers / Head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,18 C34,18 26,30 26,48 C26,68 34,76 48,76 C62,76 70,68 70,48 C70,30 62,18 48,18 Z"/>
+    <!-- Eyes Outer -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M38,40 C40,40 42,42 42,44 C42,46 40,48 38,48 C36,48 34,46 34,44 C34,42 36,40 38,40 Z M58,40 C60,40 62,42 62,44 C62,46 60,48 58,48 C56,48 54,46 54,44 C54,42 56,40 58,40 Z"/>
+    <!-- Eyes Inner -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M39,42 C40,42 41,43 41,44 C41,45 40,46 39,46 C38,46 37,45 37,44 C37,43 38,42 39,42 Z M59,42 C60,42 61,43 61,44 C61,45 60,46 59,46 C58,46 57,45 57,44 C57,43 58,42 59,42 Z"/>
+    <!-- Eagle Beak -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M44,46 L52,46 L54,62 C50,66 46,66 42,62 Z"/>
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M48,46 L52,46 L54,62 C51,64 49,63 48,58 Z"/>
+</vector>

@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M48,4 C72.3,4 92,23.7 92,48 C92,72.3 72.3,92 48,92 C23.7,92 4,72.3 4,48 C4,23.7 23.7,4 48,4 Z"/>
+    <!-- Mane -->
+    <path
+        android:fillColor="#FDBA74"
+        android:pathData="M48,16 C30,16 20,28 20,44 C20,62 32,74 48,74 C64,74 76,62 76,44 C76,28 66,16 48,16 Z"/>
+    <!-- Face Inner -->
+    <path
+        android:fillColor="#FED7AA"
+        android:pathData="M48,26 C36,26 30,34 30,46 C30,58 38,66 48,66 C58,66 66,58 66,46 C66,34 60,26 48,26 Z"/>
+    <!-- Ears -->
+    <path
+        android:fillColor="#EA580C"
+        android:pathData="M32,24 C32,18 26,18 26,24 C26,28 30,30 32,30 Z M64,24 C64,18 70,18 70,24 C70,28 66,30 64,30 Z"/>
+    <!-- Eyes -->
+    <path
+        android:fillColor="#431407"
+        android:pathData="M38,42 C40,42 41,43 41,45 C41,47 40,48 38,48 C36,48 35,47 35,45 C35,43 36,42 38,42 Z M58,42 C60,42 61,43 61,45 C61,47 60,48 58,48 C56,48 55,47 55,45 C55,43 56,42 58,42 Z"/>
+    <!-- Nose & Mouth -->
+    <path
+        android:fillColor="#9A3412"
+        android:pathData="M44,52 L52,52 L48,56 Z"/>
+    <path
+        android:strokeColor="#9A3412"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M48,56 L48,60 M44,60 C46,62 50,62 52,60"/>
+    <!-- Whiskers -->
+    <path
+        android:strokeColor="#C2410C"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M26,48 L34,50 M25,54 L34,53 M62,50 L70,48 M62,53 L71,54"/>
+</vector>

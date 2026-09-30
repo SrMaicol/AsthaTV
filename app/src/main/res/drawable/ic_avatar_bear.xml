@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M48,4 C72.3,4 92,23.7 92,48 C92,72.3 72.3,92 48,92 C23.7,92 4,72.3 4,48 C4,23.7 23.7,4 48,4 Z"/>
+    <!-- Bear Ears -->
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M24,24 C24,16 34,16 34,24 C34,30 24,30 24,24 Z M62,24 C62,16 72,16 72,24 C72,30 62,30 62,24 Z"/>
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M26,24 C26,19 32,19 32,24 C32,27 26,27 26,24 Z M64,24 C64,19 70,19 70,24 C70,27 64,27 64,24 Z"/>
+    <!-- Bear Head -->
+    <path
+        android:fillColor="#92400E"
+        android:pathData="M48,22 C32,22 24,34 24,50 C24,68 34,76 48,76 C62,76 72,68 72,50 C72,34 64,22 48,22 Z"/>
+    <!-- Snout -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M48,48 C40,48 36,54 36,62 C36,70 42,72 48,72 C54,72 60,70 60,62 C60,54 56,48 48,48 Z"/>
+    <!-- Eyes -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M38,40 C40,40 41,41 41,43 C41,45 40,46 38,46 C36,46 35,45 35,43 C35,41 36,40 38,40 Z M58,40 C60,40 61,41 61,43 C61,45 60,46 58,46 C56,46 55,45 55,43 C55,41 56,40 58,40 Z"/>
+    <!-- Nose -->
+    <path
+        android:fillColor="#451A03"
+        android:pathData="M48,52 C44,52 43,56 48,58 C53,56 52,52 48,52 Z"/>
+    <!-- Mouth -->
+    <path
+        android:strokeColor="#451A03"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M48,58 L48,64 M43,63 C46,66 50,66 53,63"/>
+</vector>

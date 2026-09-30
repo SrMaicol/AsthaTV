@@ -1,0 +1,6 @@
+{
+  "name": "IPTV Stream TV",
+  "description": "An advanced Android TV M3U IPTV Player built with Jetpack Compose for TV and ExoPlayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

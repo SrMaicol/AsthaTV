@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M48,4 C72.3,4 92,23.7 92,48 C92,72.3 72.3,92 48,92 C23.7,92 4,72.3 4,48 C4,23.7 23.7,4 48,4 Z"/>
+    <!-- Panda Ears -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M24,24 C24,16 34,16 34,24 C34,30 24,30 24,24 Z M62,24 C62,16 72,16 72,24 C72,30 62,30 62,24 Z"/>
+    <!-- Head White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,22 C32,22 24,34 24,50 C24,68 34,76 48,76 C62,76 72,68 72,50 C72,34 64,22 48,22 Z"/>
+    <!-- Eye Patches Black -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M34,38 C39,36 43,40 41,46 C39,52 32,50 31,44 C30,40 32,38 34,38 Z M62,38 C57,36 53,40 55,46 C57,52 64,50 65,44 C66,40 64,38 62,38 Z"/>
+    <!-- Eyes Inner White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,42 C38,42 39,43 39,44 C39,45 38,46 37,46 C36,46 35,45 35,44 C35,43 36,42 37,42 Z M59,42 C60,42 61,43 61,44 C61,45 60,46 59,46 C58,46 57,45 57,44 C57,43 58,42 59,42 Z"/>
+    <!-- Nose -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M48,54 C44,54 44,58 48,60 C52,58 52,54 48,54 Z"/>
+    <!-- Mouth -->
+    <path
+        android:strokeColor="#1E293B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M48,60 L48,64 M44,63 C46,65 50,65 52,63"/>
+</vector>
